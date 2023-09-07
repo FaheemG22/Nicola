@@ -5,4 +5,4 @@ This project was originally created for a competion for Website creation however
 The winner was : https://shipleysteve.github.io
 
 
-** This is not under construction this project is over **
+**This is not under construction this project is over**
